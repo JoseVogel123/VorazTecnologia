@@ -1,0 +1,14 @@
+[options]
+addons_path=/home/developer/odoo-11.0/addons,/home/developer/odoo-11.0/odoo/addons,/home/developer/odoo-11.0/addons_voraz
+admin_passwd = admin
+auto_reload = False
+csv_internal_sep = ,
+db_host = localhost
+db_maxconn = 64
+db_name = False
+db_port = False
+db_template = template0
+db_user = odoo
+db_password= odoo123
+xmlrpc_port=8011
+logfile = /var/log/odoo/odoo-server.log
